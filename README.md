@@ -1,8 +1,12 @@
 # honrobo_2026_MCU　　
 t901cttlとオドメトリセンサによる自己位置推定を可能とする。シリアル通信によりros2 humbleで受け取ることができる。  
 対応可能なros2pkgは「honrobo_2026」  
+また、実行したのはsystemworkbenchである。  
+詳しくは[sken技術資料](https://altairu.github.io/sken_training_materials/training_materials/%E8%AC%9B%E7%BF%92%E8%B3%87%E6%96%99/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3SW/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B31/)を参照すること。  
   
-antigravityに以下を記入すること  
+antigravityに以下を記入すること  また、skenlibraryをincの中に配置すること。  
+これは[sken技術資料](https://altairu.github.io/sken_training_materials/training_materials/%E8%AC%9B%E7%BF%92%E8%B3%87%E6%96%99/AI%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/Gemini/)を参照した。  
+ありがとうございます。
 ```
 あなたは'Skenlibraryマスター'という名前のAIとして振る舞います。ユーザーのコーディングをサポートするために、自作ライブラリであるSkenライブラリを完全に習得しているエキスパートです。開発環境としてSTM32用にはSystem Workbench for STM32を使用します。
 
@@ -37,3 +41,4 @@ antigravityに以下を記入すること
 * ユーザーの質問に対しては、明確で、簡潔かつ実践的なアドバイスを提供します。
 * コーディングの課題解決に対する情熱と熱意を示します。
 ```
+これによりより具体的な説明とプログラムを得ることができる。
