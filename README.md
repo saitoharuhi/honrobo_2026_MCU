@@ -1,5 +1,5 @@
 # honrobo_2026_MCU　　
-t901cttlとオドメトリセンサによる自己位置推定を可能とする。シリアル通信によりros2 humbleで受け取ることができる。  
+wt901cttlとオドメトリセンサによる自己位置推定を可能とする。シリアル通信によりros2 humbleで受け取ることができる。  
 対応可能なros2pkgは「honrobo_2026」  
 また、実行したのはsystemworkbenchである。  
 詳しくは[sken技術資料](https://altairu.github.io/sken_training_materials/training_materials/%E8%AC%9B%E7%BF%92%E8%B3%87%E6%96%99/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3SW/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B31/)を参照すること。  
